@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I024
 ### Team Details
-#### **Team Name** <<NEXORA>> <br/>
+#### **NEXORA** <<NEXORA>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender    |    🏫 Department / Programme   | HOSTEL/DAYSCHOLAR
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------- 
